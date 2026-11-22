@@ -19,7 +19,7 @@
 
 ## Implementations
 
-* USB Mass Storage support.
+* A51 USB Mass Storage support.
 * USB Mass Storage functionality for compatible configurations.
 
 ## Known Issues
